@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+import cv2
 
 arr = np.array([[1, 2, 3], [1, 2, 3], [1, 2, 3]])
 print (arr.shape)#2D ESCLA DE GRISES Y 3D ES A COLORES RGB 
